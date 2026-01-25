@@ -1,0 +1,13 @@
+[0.1.6] - 2026-01-25
+Added
+- Dark Scrollbars
+- Dark TabControls
+ - https://github.com/xatupal/KeeTheme/releases/tag/v1.0.1
+
+[0.1.1] - 2019-06-04
+Added
+- Background image to ListView to prevent flickering while saving a database
+- Custom group colors in ListView (Headers, mainly used in the Options menu)
+
+[0.1] - 2019-05-10
+- Initial Release
